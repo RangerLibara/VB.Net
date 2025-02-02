@@ -1,0 +1,13 @@
+D:\zxc\zxc\bin\Debug\zxc.exe.config
+D:\zxc\zxc\bin\Debug\zxc.exe
+D:\zxc\zxc\bin\Debug\zxc.pdb
+D:\zxc\zxc\bin\Debug\zxc.xml
+D:\zxc\zxc\obj\Debug\zxc.vbproj.AssemblyReference.cache
+D:\zxc\zxc\obj\Debug\zxc.vbproj.SuggestedBindingRedirects.cache
+D:\zxc\zxc\obj\Debug\zxc.Form1.resources
+D:\zxc\zxc\obj\Debug\zxc.Resources.resources
+D:\zxc\zxc\obj\Debug\zxc.vbproj.GenerateResource.cache
+D:\zxc\zxc\obj\Debug\zxc.vbproj.CoreCompileInputs.cache
+D:\zxc\zxc\obj\Debug\zxc.exe
+D:\zxc\zxc\obj\Debug\zxc.xml
+D:\zxc\zxc\obj\Debug\zxc.pdb
