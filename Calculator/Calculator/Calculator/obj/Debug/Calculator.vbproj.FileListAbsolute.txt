@@ -1,0 +1,26 @@
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\range\OneDrive\Desktop\VB Net\MinorA\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\MinorExamCalcu\Calculator\bin\Debug\Calculator.exe.config
+F:\MinorExamCalcu\Calculator\bin\Debug\Calculator.exe
+F:\MinorExamCalcu\Calculator\bin\Debug\Calculator.pdb
+F:\MinorExamCalcu\Calculator\bin\Debug\Calculator.xml
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.Form1.resources
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.Resources.resources
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.exe
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.xml
+F:\MinorExamCalcu\Calculator\obj\Debug\Calculator.pdb
