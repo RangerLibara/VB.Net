@@ -1,0 +1,117 @@
+C:\Users\Yolando\source\repos\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Yolando\source\repos\CRUD\bin\Debug\CRUD.exe
+C:\Users\Yolando\source\repos\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Yolando\source\repos\CRUD\bin\Debug\CRUD.xml
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.vbprojAssemblyReference.cache
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.exe
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.xml
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.AddUser.resources
+C:\Users\Yolando\source\repos\CRUD\obj\Debug\CRUD.EditUser.resources
+C:\Users\Yolando\Videos\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Yolando\Videos\CRUD\bin\Debug\CRUD.exe
+C:\Users\Yolando\Videos\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Yolando\Videos\CRUD\bin\Debug\CRUD.xml
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.vbprojAssemblyReference.cache
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.AddUser.resources
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.EditUser.resources
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.exe
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.xml
+C:\Users\Yolando\Videos\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\bin\Debug\CRUD.exe
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\bin\Debug\CRUD.xml
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.vbprojAssemblyReference.cache
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.AddUser.resources
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.EditUser.resources
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.exe
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.xml
+C:\Users\Yolando\Videos\ACT_DTS\CRUD\obj\Debug\CRUD.pdb
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.AssemblyReference.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.SuggestedBindingRedirects.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.exe
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.xml
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.pdb
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.exe.config
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.exe
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.pdb
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.xml
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.AssemblyReference.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.SuggestedBindingRedirects.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.AddItem.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.EditItem.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Form1.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Resources.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.exe
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.xml
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.pdb
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.exe.config
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.exe
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.pdb
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.xml
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.AssemblyReference.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.SuggestedBindingRedirects.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.AddItem.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.EditItem.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Form1.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Resources.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.exe
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.xml
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.pdb
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Login.resources
+D:\STUDENT FILES\JOMAOAS_DTS IT 1E1\VB\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.RegisterForm.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.exe
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.pdb
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\bin\Debug\CRUD.xml
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbprojAssemblyReference.cache
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.AddItem.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.EditItem.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Login.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.ManageUsers.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.RegisterForm.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.exe
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.xml
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.pdb
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.AddUser.resources
+C:\Users\Ryan Jomao-as\Downloads\Jomao_as CRUD (edited) (3)\Jomao_as CRUD (edited)\Jomao_as CRUD (edited)\Jomao_as CRUD\Jomao_as CRUD\obj\Debug\CRUD.EditUser.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\bin\Debug\CRUD.exe
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\bin\Debug\CRUD.pdb
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\bin\Debug\CRUD.xml
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.vbprojAssemblyReference.cache
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.AddItem.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.AddUser.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.EditItem.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.EditUser.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.Login.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.ManageUsers.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.RegisterForm.resources
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.exe
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.xml
+C:\Users\Ryan Jomao-as\Downloads\JOMAWS\Jomao_as CRUD\obj\Debug\CRUD.pdb
