@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_items" msprop:Generator_TableClassName="tbl_itemsDataTable" msprop:Generator_TableVarName="tabletbl_items" msprop:Generator_TablePropName="tbl_items" msprop:Generator_RowDeletingName="tbl_itemsRowDeleting" msprop:Generator_RowChangingName="tbl_itemsRowChanging" msprop:Generator_RowEvHandlerName="tbl_itemsRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_itemsRowDeleted" msprop:Generator_UserTableName="tbl_items" msprop:Generator_RowChangedName="tbl_itemsRowChanged" msprop:Generator_RowEvArgName="tbl_itemsRowChangeEvent" msprop:Generator_RowClassName="tbl_itemsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="item_id" msprop:Generator_ColumnVarNameInTable="columnitem_id" msprop:Generator_ColumnPropNameInRow="item_id" msprop:Generator_ColumnPropNameInTable="item_idColumn" msprop:Generator_UserColumnName="item_id" type="xs:string" minOccurs="0" />
+              <xs:element name="item_code" msprop:Generator_ColumnVarNameInTable="columnitem_code" msprop:Generator_ColumnPropNameInRow="item_code" msprop:Generator_ColumnPropNameInTable="item_codeColumn" msprop:Generator_UserColumnName="item_code" type="xs:string" minOccurs="0" />
+              <xs:element name="item_name" msprop:Generator_ColumnVarNameInTable="columnitem_name" msprop:Generator_ColumnPropNameInRow="item_name" msprop:Generator_ColumnPropNameInTable="item_nameColumn" msprop:Generator_UserColumnName="item_name" type="xs:string" minOccurs="0" />
+              <xs:element name="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnPropNameInTable="priceColumn" msprop:Generator_UserColumnName="price" type="xs:string" minOccurs="0" />
+              <xs:element name="item_type_id" msprop:Generator_ColumnVarNameInTable="columnitem_type_id" msprop:Generator_ColumnPropNameInRow="item_type_id" msprop:Generator_ColumnPropNameInTable="item_type_idColumn" msprop:Generator_UserColumnName="item_type_id" type="xs:string" minOccurs="0" />
+              <xs:element name="supplier_id" msprop:Generator_ColumnVarNameInTable="columnsupplier_id" msprop:Generator_ColumnPropNameInRow="supplier_id" msprop:Generator_ColumnPropNameInTable="supplier_idColumn" msprop:Generator_UserColumnName="supplier_id" type="xs:string" minOccurs="0" />
+              <xs:element name="currency_id" msprop:Generator_ColumnVarNameInTable="columncurrency_id" msprop:Generator_ColumnPropNameInRow="currency_id" msprop:Generator_ColumnPropNameInTable="currency_idColumn" msprop:Generator_UserColumnName="currency_id" type="xs:string" minOccurs="0" />
+              <xs:element name="item_type_name" msprop:Generator_ColumnVarNameInTable="columnitem_type_name" msprop:Generator_ColumnPropNameInRow="item_type_name" msprop:Generator_ColumnPropNameInTable="item_type_nameColumn" msprop:Generator_UserColumnName="item_type_name" type="xs:string" minOccurs="0" />
+              <xs:element name="supplier_name" msprop:Generator_ColumnVarNameInTable="columnsupplier_name" msprop:Generator_ColumnPropNameInRow="supplier_name" msprop:Generator_ColumnPropNameInTable="supplier_nameColumn" msprop:Generator_UserColumnName="supplier_name" type="xs:string" minOccurs="0" />
+              <xs:element name="currency" msprop:Generator_ColumnVarNameInTable="columncurrency" msprop:Generator_ColumnPropNameInRow="currency" msprop:Generator_ColumnPropNameInTable="currencyColumn" msprop:Generator_UserColumnName="currency" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tbl_item_types" msprop:Generator_TableClassName="tbl_item_typesDataTable" msprop:Generator_TableVarName="tabletbl_item_types" msprop:Generator_TablePropName="tbl_item_types" msprop:Generator_RowDeletingName="tbl_item_typesRowDeleting" msprop:Generator_RowChangingName="tbl_item_typesRowChanging" msprop:Generator_RowEvHandlerName="tbl_item_typesRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_item_typesRowDeleted" msprop:Generator_UserTableName="tbl_item_types" msprop:Generator_RowChangedName="tbl_item_typesRowChanged" msprop:Generator_RowEvArgName="tbl_item_typesRowChangeEvent" msprop:Generator_RowClassName="tbl_item_typesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="item_type_id" msprop:Generator_ColumnVarNameInTable="columnitem_type_id" msprop:Generator_ColumnPropNameInRow="item_type_id" msprop:Generator_ColumnPropNameInTable="item_type_idColumn" msprop:Generator_UserColumnName="item_type_id" type="xs:string" minOccurs="0" />
+              <xs:element name="item_type_name" msprop:Generator_ColumnVarNameInTable="columnitem_type_name" msprop:Generator_ColumnPropNameInRow="item_type_name" msprop:Generator_ColumnPropNameInTable="item_type_nameColumn" msprop:Generator_UserColumnName="item_type_name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tbl_suppliers" msprop:Generator_TableClassName="tbl_suppliersDataTable" msprop:Generator_TableVarName="tabletbl_suppliers" msprop:Generator_TablePropName="tbl_suppliers" msprop:Generator_RowDeletingName="tbl_suppliersRowDeleting" msprop:Generator_RowChangingName="tbl_suppliersRowChanging" msprop:Generator_RowEvHandlerName="tbl_suppliersRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_suppliersRowDeleted" msprop:Generator_UserTableName="tbl_suppliers" msprop:Generator_RowChangedName="tbl_suppliersRowChanged" msprop:Generator_RowEvArgName="tbl_suppliersRowChangeEvent" msprop:Generator_RowClassName="tbl_suppliersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="supplier_id" msprop:Generator_ColumnVarNameInTable="columnsupplier_id" msprop:Generator_ColumnPropNameInRow="supplier_id" msprop:Generator_ColumnPropNameInTable="supplier_idColumn" msprop:Generator_UserColumnName="supplier_id" type="xs:string" minOccurs="0" />
+              <xs:element name="supplier_name" msprop:Generator_ColumnVarNameInTable="columnsupplier_name" msprop:Generator_ColumnPropNameInRow="supplier_name" msprop:Generator_ColumnPropNameInTable="supplier_nameColumn" msprop:Generator_UserColumnName="supplier_name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tbl_currencies" msprop:Generator_TableClassName="tbl_currenciesDataTable" msprop:Generator_TableVarName="tabletbl_currencies" msprop:Generator_TablePropName="tbl_currencies" msprop:Generator_RowDeletingName="tbl_currenciesRowDeleting" msprop:Generator_RowChangingName="tbl_currenciesRowChanging" msprop:Generator_RowEvHandlerName="tbl_currenciesRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_currenciesRowDeleted" msprop:Generator_UserTableName="tbl_currencies" msprop:Generator_RowChangedName="tbl_currenciesRowChanged" msprop:Generator_RowEvArgName="tbl_currenciesRowChangeEvent" msprop:Generator_RowClassName="tbl_currenciesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="currency_id_x0020_" msprop:Generator_ColumnVarNameInTable="columncurrency_id_" msprop:Generator_ColumnPropNameInRow="currency_id_" msprop:Generator_ColumnPropNameInTable="currency_id_Column" msprop:Generator_UserColumnName="currency_id " type="xs:string" minOccurs="0" />
+              <xs:element name="currency" msprop:Generator_ColumnVarNameInTable="columncurrency" msprop:Generator_ColumnPropNameInRow="currency" msprop:Generator_ColumnPropNameInTable="currencyColumn" msprop:Generator_UserColumnName="currency" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
